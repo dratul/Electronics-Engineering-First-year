@@ -1,5 +1,5 @@
 # Electronics-Engineering
-This is for Electronics Engineering Subject related downloads
+This is for Electronics Engineering First year Subject related study materials
 
 ## Syllabus
 [Click here](https://github.com/dratul/Electronics-Engineering-BEC-201-/blob/main/Syll.pdf) 
